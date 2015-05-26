@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gamelog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="facebook_app_id">826837627405333</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+    <string name="action_settings">Settings</string>
+    <string name="fullname">Nome e Sobrenome</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="signup">Cadastrar</string>
+    <string name="title_activity_signin">Login</string>
+    <string name="signin">Entrar</string>
+	<string name="logoff">Logoff</string>
+	<string name="shareApp">Estou usando o aplicativo Gamelog!</string>
+	<string name="chooseApp">Escolha o aplicativo</string>
+    
+</resources>
