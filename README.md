@@ -1,4 +1,4 @@
-![Logo](https://github.com/matheusrangel/gamelog/blob/master/Gamelog/res/drawable-hdpi/joystick.png "Gamelog Logo")
+![Logo](Gamelog/res/drawable-hdpi/joystick.png "Gamelog Logo")
 # Gamelog 
 Projeto de Android da matéria Programação de Dispositivos Móveis
 
